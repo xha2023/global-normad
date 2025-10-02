@@ -25,6 +25,7 @@
     "@babel/preset-react": "^7.27.1",
     "@babel/preset-typescript": "^7.27.1",
     "@chromatic-com/storybook": "^4.1.1",
+    "@eslint/js": "^9.36.0",
     "@storybook/addon-a11y": "^9.1.9",
     "@storybook/addon-onboarding": "^9.1.9",
     "@storybook/addon-vitest": "^9.1.9",
@@ -43,6 +44,7 @@
     "eslint": "^9.36.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-storybook": "^9.1.9",
+    "globals": "^16.4.0",
     "playwright": "^1.55.1",
     "postcss": "^8.5.6",
     "postcss-loader": "^8.2.0",
@@ -52,6 +54,7 @@
     "style-loader": "^4.0.0",
     "tailwindcss": "^3.4.17",
     "typescript": "~5.8.3",
+    "typescript-eslint": "^8.45.0",
     "vite-tsconfig-paths": "^5.1.4",
     "vitest": "^3.2.4"
   }
